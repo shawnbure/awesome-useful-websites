@@ -653,6 +653,7 @@ Each website is included only once. Some websites can fall into multiple categor
 
 ## Economy
 
+- [unscrewed.lol](https://unscrewed.lol/) - Very early U.S. marketplace for directly bartering useful goods and skills without a platform listing or transaction fee. It publishes live marketplace counts, including zeroes; listings and visits should not be mistaken for completed exchanges.
 - [Investopedia](https://www.investopedia.com/) - A source of financial education, news, and research for investors.
 - [Money](https://money.com/) - A comprehensive resource for personal finance and financial news.
 - [The Balance Money](https://www.thebalancemoney.com/) - Financial education and resources.
