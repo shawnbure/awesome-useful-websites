@@ -340,6 +340,7 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Data Entry
 
 - [XLSXForm](https://xlsxform.com/) - Build forms and store all data entry in .xlsx file format.
+- [Pollrr](https://pollrr.com/) - Create and distribute human-first polls where respondents answer before seeing results. Human responses remain separate from AI-assisted question wording or interpretation; open-link results describe participants rather than a representative population unless the poll documents a sampling design.
 
 ## DIY
 
